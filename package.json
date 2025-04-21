@@ -2,6 +2,7 @@
   "name": "compli-ai-frontend",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://compliai.github.io/compli-ai-frontend/",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
